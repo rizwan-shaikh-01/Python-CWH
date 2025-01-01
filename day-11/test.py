@@ -13,7 +13,7 @@ print(name[1])
 print(name[2])
 print(name[3])
 print(name[4])
-# print(name[5]) # Throws an error
+ #print(name[5]) # Throws an error
 print("Lets use a for loop\n")
 for character in apple:
     print(character)
